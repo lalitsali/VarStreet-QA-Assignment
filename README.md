@@ -26,7 +26,7 @@ Test suite structure for the Deal/Opportunity module (smoke, regression, edge ca
 Full Jira-style bug report for the most impactful issue found
 How to view
 
-Both files are standard Microsoft Word (.docx) documents.
+ file are standard Microsoft Word (.docx) documents.
 
 Open with Microsoft Word, LibreOffice Writer, Google Docs (upload/open), or any compatible editor.
 No installation, build, or setup steps are required — these are static documents, not runnable code.
